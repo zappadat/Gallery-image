@@ -1,2 +1,0 @@
-# Gallery-image
-bitnami-raw
